@@ -34,6 +34,8 @@ matrix:
     - php: 5.3
       env: WP_VERSION=4.7 WP_MULTISITE=0
       dist: precise
+      
+      
     - php: 5.3
       env: WP_VERSION=4.6 WP_MULTISITE=0
       dist: precise
