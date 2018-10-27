@@ -1,6 +1,6 @@
 Fixes #
 
-Proposed Changes:
+Proposed Changes : 
 1.
 2.
 3.
