@@ -5,6 +5,7 @@ The purpose of this template is to standardize GitHub issues for bug reports and
 3. Delete this entire block of instructions, from START to END, and fill out the sections to describe your reason for opening an issue.
 # Instructions (END):
 
+
 ## Bug Report
 ### Expected behavior
 When I do X, I expect Y to happen.
